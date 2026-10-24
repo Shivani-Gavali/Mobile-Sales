@@ -21,7 +21,7 @@ This project analyzes mobile sales data to understand market trends, brand perfo
 
 • Top 3 Sales
 
-• Customer Rating by Ratings
+• Customer Ratings by Ratings
 
 • Total Sales by Brand
 
