@@ -1,11 +1,11 @@
 # Mobile-Sales
 
-## Power BI Project
+### Power BI Project
 This project analyzes mobile sales data to understand market trends, brand performance, and customer purchasing behavior. A comprehensive Power BI report was developed to present sales insights through interactive visualizations and time-based analysis. The report helps stakeholders evaluate business performance, identify market trends, and make data-driven decisions.
 
-## Tools Covered : Advanced Excel, Power BI, DAX, Power Query
+### Tools Covered : Advanced Excel, Power BI, DAX, Power Query
 
-## Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 
 • Total Brands
 
@@ -31,7 +31,7 @@ This project analyzes mobile sales data to understand market trends, brand perfo
 
 • Units Sold by Year
 
-## Dashboard Visualizations:
+### Dashboard Visualizations:
 
 • Cards
 
@@ -45,10 +45,10 @@ This project analyzes mobile sales data to understand market trends, brand perfo
 
 • Donut Chart
 
-## Interactive Features:
+### Interactive Features:
 
 • Slicers
 
-## Dashboard Preview:
+### Dashboard Preview:
 
 ![Mobile Sales](Mobile%20Sales.png)
