@@ -29,6 +29,8 @@ This project analyzes mobile sales data to understand market trends, brand perfo
 
 • Total Transactions by Payment Method
 
+• Units Sold by Year
+
 ## Dashboard Visualizations:
 
 • Cards
@@ -49,5 +51,4 @@ This project analyzes mobile sales data to understand market trends, brand perfo
 
 ## Dashboard Preview:
 
-![Mobile Sales](Mobile%20Sales)
-• Units Sold by Year
+![Mobile Sales](Mobile%20Sales.png)
